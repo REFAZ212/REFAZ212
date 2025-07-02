@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" height="35" /> **Hey there, I'm Rendi Fauzi** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" alt="🚀" width="35" height="35" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" height="35" /> **Hey there, I'm Rendi Fauzi**
 
 <div align="center">
   
@@ -17,14 +17,7 @@
 
 </div>
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=REFAZ212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REFAZ212&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+---
 
 <div align="center">
 
